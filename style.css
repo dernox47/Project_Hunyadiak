@@ -90,3 +90,20 @@ h1 {
 }
 
 /*------------------------------------------------------------------*/
+
+h2 {
+    text-align: center;
+    margin: 20px;
+}
+
+p {
+    font-size: 18px;
+    text-indent: 1cm;
+    text-align: justify;
+
+}
+
+#becsben {
+    float: right;
+    margin: 20px;
+}
