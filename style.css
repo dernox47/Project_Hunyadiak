@@ -52,12 +52,13 @@ h1 {
     font-size: 25px;
     font-weight: bold;
     letter-spacing: 2px;
+    transition: 0.5s;
 }
 
 .navbar-toggler {
     border: 2px solid black;
     margin: 10px;
-    transition: 0.5s;
+    transition: 0.3s;
 }
 
 .nav-link {
@@ -80,6 +81,12 @@ h1 {
 
 .navbar-toggler:hover {
     background-color: #F5DEB3;
+}
+
+.navbar-brand:hover {
+    text-shadow: 0 0 10px black;
+    cursor: default;
+    transform: scale(1.05);
 }
 
 /*------------------------------------------------------------------*/
