@@ -102,7 +102,7 @@ p {
     text-align: justify;
 }
 
-#becsben, #vegvar {
+img {
     border: 3px solid black;
     border-radius: 20px;
     -webkit-filter: sepia(100%);
@@ -111,7 +111,12 @@ p {
 	transition: .3s ease-in-out;
 }
 
-#becsben:hover, #vegvar:hover {
+img:hover {
     -webkit-filter: sepia(0);
 	filter: sepia(0);
+}
+
+.kisebb {
+    height: 65%;
+    margin-top: 20px;
 }
