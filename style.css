@@ -126,3 +126,9 @@ img:hover {
 .belpolitikap{
     padding-top: 30px;
 }
+table,th,td,tr{
+    border: 1px solid black;
+}
+table{
+    margin: auto;
+}
