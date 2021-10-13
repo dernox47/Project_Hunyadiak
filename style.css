@@ -96,7 +96,7 @@ h2 {
     margin: 20px;
 }
 
-p {
+.container p {
     font-size: 18px;
     text-indent: 1cm;
     text-align: justify;
@@ -121,9 +121,6 @@ img:hover {
     margin-bottom: 20px;
 }
 
-.belpolitikakep{
-    width: 100%;
-}
 
 .belpolitikap{
     padding-top: 30px;
@@ -146,3 +143,19 @@ table{
 li {
     padding-bottom: 5px;
 }
+<<<<<<< HEAD
+
+footer {
+    width: 100%;
+    height: 100px;
+    background-color:#c7a187;
+    border-top: 2px solid black;
+    text-align: left;
+    padding: 15px;
+    color: black;
+    margin-top: 30px;
+    bottom: 0;
+    box-shadow: 0 0 8px 3px rgba(0, 0, 0, 0.5);
+}
+=======
+>>>>>>> 8dcfb364f9a2b19f7ebcb00bb6f52e4ab5d6e7c1
