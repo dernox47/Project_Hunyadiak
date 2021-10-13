@@ -138,3 +138,11 @@ table{
     margin-bottom: 20px;
 }
 
+.list {
+    font-size: 18px;
+    margin-left: 40px;
+}
+
+li {
+    padding-bottom: 5px;
+}
